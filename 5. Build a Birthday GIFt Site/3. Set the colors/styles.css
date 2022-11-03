@@ -10,9 +10,12 @@ white: #ffffff
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
+    color: #ffffff;
+    background-color: #a2d2ff;
 }
 
 #bff-img {
     width: 150px;
     border-radius: 50%;
+    border: 10px solid #EFB0C9;
 }

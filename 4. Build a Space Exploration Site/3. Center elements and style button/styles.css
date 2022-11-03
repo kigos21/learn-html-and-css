@@ -9,5 +9,22 @@ body {
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.title {
+    display: block;
+    margin: 20px auto;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: white;
+}
+
+.flex-center {
+    display: flex;
+    margin: 0 auto;
+}

@@ -9,6 +9,20 @@ h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
 }
 
+#bday-age {
+    background: #EFB0C9;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+#bday-date {
+    background: #EFB0C9;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 0;
+}
+
 #bff-img {
     width: 150px;
     border-radius: 50%;

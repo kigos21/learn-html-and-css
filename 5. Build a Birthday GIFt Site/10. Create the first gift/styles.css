@@ -36,6 +36,24 @@ h1, h2, h3, h4, p {
     align-items: center;
 }
 
+.gift-section {
+
+}
+
+.gift-title {
+    margin: 100px 0 0 0;
+}
+
+.hover-inst {
+
+}
+
+.giftcover-img {
+    width: 400px;
+    border: 10px solid #ffffff;
+    border-radius: 10px;
+}
+
 /*
 Challenge:
 1. Create a "gift-section" <div> that will wrap
@@ -46,4 +64,3 @@ Challenge:
 
 PS: the image should be 400px wide.
 */
-

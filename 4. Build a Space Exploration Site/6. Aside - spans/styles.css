@@ -9,3 +9,9 @@ body {
     border: 5px solid #A3BC71;
     text-align: center;
 }
+
+.cta {
+    background-color: #8F4737;
+    border: 2px solid #A3BC71;
+    padding: 5px 10px;
+}

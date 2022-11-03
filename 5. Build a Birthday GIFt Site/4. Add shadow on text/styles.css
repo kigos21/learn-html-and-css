@@ -13,6 +13,10 @@ learned in the Space Exploration section. Set
 the blur to 1px and the color to black.
 */
 
+h1, h2, h3, h4, p {
+    text-shadow: 0px 0px 1px #000000;
+}
+
 #bff-img {
     width: 150px;
     border-radius: 50%;
